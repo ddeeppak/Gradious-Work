@@ -1,0 +1,52 @@
+.layout{
+  width: 500px;
+  height: auto;
+  background-color: rgb(196, 255, 235);
+  padding: 30px;
+  margin: auto;
+  margin-top: 10%;
+}
+.tasklist{
+  width: 300px;
+  margin: auto;
+  margin-top: 20px;
+}
+.task{
+  padding-left: 0px;
+  border: 1px solid rgba(0, 0, 0, 0.118);
+  border-radius: 10px;
+  padding: 2px;
+  background-color: rgb(178, 227, 255);
+  margin: 10px;
+}
+
+.task:hover{
+  background-color:  rgb(87, 189, 248);
+}
+
+h1{
+  text-align: center;
+  margin-bottom: 50px;
+  color: rgba(0, 0, 0, 0.559);
+}
+#newtask{
+  padding-left: 10px;
+  font-size: 15px;
+  margin-top: 30px;
+  margin-left: 96px;
+  width: 300px;
+  border-radius: 20px;
+  border: none;
+  height: 40PX;
+  background-color: rgba(0, 255, 76, 0.438);
+}
+
+
+button{
+  margin-left: -42px;
+  height: 40px;
+  width: 40px;
+  border:  none;
+  border-radius: 20px;
+  background-color: rgba(6, 201, 65, 0.381);
+}
